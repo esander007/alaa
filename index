@@ -1,0 +1,11 @@
+/* ::::: https://secure7.arcot.com/acspage/en_US_DPS_Bulk12/style.css ::::: */
+
+BODY { color: rgb(102, 102, 102); }
+A:link { color: rgb(102, 102, 102); }
+A:active { color: rgb(102, 102, 102); }
+A:visited { color: rgb(102, 102, 102); }
+A:hover { color: rgb(0, 51, 102); }
+.monospace { font-family: Courier,monospace; color: rgb(102, 102, 102); }
+TABLE, TR, TD { font-family: Arial,Helvetica,sans-serif; font-size: 12px; color: rgb(102, 102, 102); }
+.TextSmall { font-family: Arial,Helvetica,sans-serif; font-size: 10px; }
+.TextBlack { font-family: Arial,Helvetica,sans-serif; font-size: 11px; color: rgb(0, 0, 0); }
